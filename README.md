@@ -1,5 +1,5 @@
 # Faqapp
-
+You can add/remove questions and answers which are stored locally. Angular FTW
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.4.
 
 ## Development server
